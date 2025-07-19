@@ -1,0 +1,5 @@
+C:\Users\NerY\Documents\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\generous_modpack.csproj.AssemblyReference.cache
+C:\Users\NerY\Documents\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\generous_modpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NerY\Documents\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\generous_modpack.AssemblyInfoInputs.cache
+C:\Users\NerY\Documents\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\generous_modpack.AssemblyInfo.cs
+C:\Users\NerY\Documents\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\generous_modpack.csproj.CoreCompileInputs.cache
