@@ -43,6 +43,7 @@ namespace GenerousModpack
             CustomCard.BuildCard<theOneWhoTricks>();
             CustomCard.BuildCard<CancroMobile>();
             CustomCard.BuildCard<theHolyTrinity>();
+            CustomCard.BuildCard<DemigodOfBlocks>();
         }
     }
 }

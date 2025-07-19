@@ -43,7 +43,7 @@ namespace GenerousModpack.Cards
         }
         protected override CardInfo.Rarity GetRarity()
         {
-            return CardInfo.Rarity.Rare;
+            return RarityBundle.Rarities.Exotic;
         }
         protected override CardInfoStat[] GetStats()
         {
