@@ -211,3 +211,5 @@ F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modp
 F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\Generous.BB59579E.Up2Date
 F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\GenerousModpack.dll
 F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modpack\generous_modpack\obj\Debug\netstandard2.1\GenerousModpack.pdb
+F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modpack\generous_modpack\bin\Debug\netstandard2.1\Rarity Bundle.dll
+F:\User Files\Documents\GitHub\ROUNDSmod_GenerousModpack\ROUNDSmod\generous_modpack\generous_modpack\bin\Debug\netstandard2.1\RarityLib.dll

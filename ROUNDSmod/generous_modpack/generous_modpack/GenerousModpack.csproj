@@ -30,6 +30,12 @@
     <Reference Include="ModdingUtils">
       <HintPath>..\..\..\Dependencies\ModdingUtils.dll</HintPath>
     </Reference>
+    <Reference Include="Rarity Bundle">
+      <HintPath>..\..\..\Dependencies\Rarity Bundle.dll</HintPath>
+    </Reference>
+    <Reference Include="RarityLib">
+      <HintPath>..\..\..\Dependencies\RarityLib.dll</HintPath>
+    </Reference>
     <Reference Include="UnboundLib">
       <HintPath>..\..\..\Dependencies\UnboundLib.dll</HintPath>
     </Reference>
