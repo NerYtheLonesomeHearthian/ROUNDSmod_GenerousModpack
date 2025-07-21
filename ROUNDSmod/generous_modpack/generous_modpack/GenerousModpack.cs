@@ -20,7 +20,7 @@ namespace GenerousModpack
     {
         private const string ModId = "com.NerYtheLonesomeHearthian.GenerousModpack";
         private const string ModName = "Generous Modpack";
-        public const string Version = "1.0.0"; // What version are we on (major.minor.patch)?
+        public const string Version = "1.6.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "GM";
 
 
