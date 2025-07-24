@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerousModpack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37b33500ebeaf17c92a900c098a49106edbac1ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a534b1526ef96ef2db03291600e9472a709a4ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerousModpack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerousModpack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3695015673
+CRC: 2580638854
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 044574bcf99ace371035be38d9b9a17c
+    Hash: 56e6cda6101e761d1c78e3790a7a1a6f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0a2eb74e0559ef57955f05c62a3fc9bf
@@ -28,6 +28,7 @@ Assets:
 - Assets/Prefabs/C_CancroMobile.prefab
 - Assets/Prefabs/C_CuginosPower.prefab
 - Assets/Prefabs/C_theHolyTrinity.prefab
+- Assets/Prefabs/C_demigodOfBlocks.prefab
 - Assets/Prefabs/C_LavaRain.prefab
 - Assets/Prefabs/C_plus200damage.prefab
 - Assets/Prefabs/C_GodOfBlocks.prefab

@@ -1,1 +1,1 @@
-Added one more card, for a total of 12.
+Added card art for one card.

@@ -22,6 +22,7 @@ namespace GenerousModpack
         public static GameObject CuginosPowerArt = Bundle.LoadAsset<GameObject>("C_CuginosPower");
         public static GameObject GodOfBlockArt = Bundle.LoadAsset<GameObject>("C_GodOfBlocks");
         public static GameObject theHolyTrinityArt = Bundle.LoadAsset<GameObject>("C_theHolyTrinity");
+        public static GameObject demigodOfBlocksArt = Bundle.LoadAsset<GameObject>("C_demigodOfBlocks");
 
 
     }

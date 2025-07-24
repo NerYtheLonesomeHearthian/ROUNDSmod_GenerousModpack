@@ -36,7 +36,7 @@ namespace GenerousModpack.Cards
         }
         protected override GameObject GetCardArt()
         {
-            return null;
+            return Assets.demigodOfBlocksArt;
         }
         protected override CardInfo.Rarity GetRarity()
         {
