@@ -8,23 +8,23 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nery\\.nuget\\packages\\": {},
-    "F:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\neryj\\.nuget\\packages\\": {},
+    "D:\\Visual_Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\User Files\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\GenerousModpack.csproj",
+      "projectUniqueName": "C:\\Users\\neryj\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\GenerousModpack.csproj",
       "projectName": "GenerousModpack",
-      "projectPath": "F:\\User Files\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\GenerousModpack.csproj",
-      "packagesPath": "C:\\Users\\nery\\.nuget\\packages\\",
-      "outputPath": "F:\\User Files\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\obj\\",
+      "projectPath": "C:\\Users\\neryj\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\GenerousModpack.csproj",
+      "packagesPath": "C:\\Users\\neryj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\neryj\\Documents\\GitHub\\ROUNDSmod_GenerousModpack\\ROUNDSmod\\generous_modpack\\generous_modpack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Visual_Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\neryj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
